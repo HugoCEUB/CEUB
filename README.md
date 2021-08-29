@@ -1,4 +1,4 @@
-# aula
+# Projetos da Matéria Programação para Web
 
 HTTP: https://github.com/HugoCEUB/aula.git
 SSH: git@github.com:HugoCEUB/aula.git

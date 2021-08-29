@@ -1,7 +1,7 @@
 # aula
 
-HTTP: https://github.com/HugoCEUB/CEUB.git
-SSH: git@github.com:HugoCEUB/CEUB.git
+HTTP: https://github.com/HugoCEUB/aula.git
+SSH: git@github.com:HugoCEUB/aula.git
 
 …or create a new repository on the command line
 echo "# CEUB" >> README.md
